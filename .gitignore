@@ -1,0 +1,7 @@
+*.sln
+
+/bin
+/obj
+
+#Elimina el archivo de configuracion
+appsettings.json    
