@@ -8,11 +8,10 @@ Mi primer contribución local para github
 ## Este es un curso de git y git hub 
 
 
-Cambios desde mi rama local, llamada dev01
+Cambios desde mi rama local, llamada dev01 
 
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-
 
 <!--RECENT_ACTIVITY:last_update--> 
